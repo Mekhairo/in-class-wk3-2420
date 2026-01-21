@@ -37,11 +37,11 @@ Week 3 Lab
 
 7.)
 
-##
- > writes where as >> appends
+
+ "> writes where as >> appends
 The mode you're in immediately after opening vim is normal mode
 redirecting errors will use 2> file.txt (to write) or 2>> file.txt (to append)
 ls >> file.txt would append to the end of a file.
-cmd1 | cmd2 would pipe the stdout of cmd1 to the stdin of cmd2.
+cmd1 | cmd2 would pipe the stdout of cmd1 to the stdin of cmd2."
 
 
