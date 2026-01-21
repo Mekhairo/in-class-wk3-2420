@@ -37,7 +37,7 @@ Week 3 Lab
 
 7.)
 
-###
+##
  > writes where as >> appends
 The mode you're in immediately after opening vim is normal mode
 redirecting errors will use 2> file.txt (to write) or 2>> file.txt (to append)
